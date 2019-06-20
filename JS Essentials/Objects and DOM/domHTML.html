@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="greeting" onclick="onHelloClick()">Hello World!</h1>
+
+    <ul class="first-list">
+        <li>Stamat</li>
+        <li>Gosho</li>
+        <li>Pesho</li>
+        <li>Kiro</li>
+    </ul>
+
+    <ul id="second-list">
+            <li>lesho</li>
+            <li>Gosho</li>
+            <li>Pesho</li>
+            <li>Kiro</li>
+        </ul>
+
+    <script>
+        let messageElement = document.getElementById('greeting');
+        messageElement.innerHTML += ' From Soft';
+        
+        let listItems = document.getElementsByTagName('li');
+        listItems[3].innerHTML+= 'Stamoo';
+
+        let ulElement = document.getElementsByClassName('first-list');
+        listItems[0].innerHTML+= 'idiot';
+        
+        let ulElements = document.querySelectorAll('ul.first-list li');
+        ulElements.innerHTML += 'kuro';
+
+        let ulElementsNotAllSelector = document.querySelector('ul.first-list');
+        ulElementsNotAllSelector.innerHTML += '<li>SuperPesheeev</li>';
+        ulElementsNotAllSelector.style.backgroundColor = 'green';
+
+
+        function onHelloClick() {
+            let appendFirst = document.querySelector('ul.first-list li');
+            let secondListElement = document.getElementById('second-list');
+            secondListElement.appendChild(appendFirst);
+        }
+    </script>
+</body>
+</html>

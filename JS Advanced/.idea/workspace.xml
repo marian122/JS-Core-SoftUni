@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afbbdf25-b287-435e-bc14-fe0d7b7c321e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Aggregates.js" />
+        <option value="$PROJECT_DIR$/CurrencyFormat.js" />
+        <option value="$PROJECT_DIR$/CommandProccessor.js" />
+        <option value="$PROJECT_DIR$/MaxElement.js" />
+        <option value="$PROJECT_DIR$/05. Next Article/next-article.js" />
+        <option value="$PROJECT_DIR$/05. Next Article/article.html" />
+        <option value="$PROJECT_DIR$/SortArray.js" />
+        <option value="$PROJECT_DIR$/ArgumentInfo.js" />
+        <option value="$PROJECT_DIR$/FunctionalSum.js" />
+        <option value="$PROJECT_DIR$/PersonalBMI.js" />
+        <option value="$PROJECT_DIR$/VectorMath.js" />
+        <option value="$PROJECT_DIR$/BreakfastRobot.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/02. Fill-Dropdown/dropdown.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/04. Sections/script.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/05. Notification/scripts.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/06. Time-Converter/solution.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/07. Locked-Profile/app.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Sub Sum.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/tests/sum.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/tests/sum-nums-mocha-tests.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/sum-nums.js" />
+        <option value="$PROJECT_DIR$/Unit Testing/Tests/sum-nums-mocha-tests.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="35" />
+    <option name="width" value="1535" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JS Advanced" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\malek\WebstormProjects\JS Advanced" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JS CORE" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Mocha Tests">
+    <configuration name="ArgumentInfo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="ArgumentInfo.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="FunctionalSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="FunctionalSum.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Sub Sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Sub Sum.js" working-dir="$PROJECT_DIR$/Unit Testing">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="sum-nums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="sum-nums.js" working-dir="$PROJECT_DIR$/Unit Testing">
+      <method v="2" />
+    </configuration>
+    <configuration name="Mocha Tests" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>true</recursive>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Mocha Tests" />
+      <item itemvalue="Node.js.ArgumentInfo.js" />
+      <item itemvalue="Node.js.FunctionalSum.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.Sub Sum.js" />
+      <item itemvalue="Node.js.sum-nums.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.sum-nums.js" />
+        <item itemvalue="Node.js.Sub Sum.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.FunctionalSum.js" />
+        <item itemvalue="Node.js.ArgumentInfo.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afbbdf25-b287-435e-bc14-fe0d7b7c321e" name="Default Changelist" comment="" />
+      <created>1560352634558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560352634558</updated>
+      <workItem from="1560352636813" duration="12468000" />
+      <workItem from="1560423594331" duration="5054000" />
+      <workItem from="1560768196046" duration="10631000" />
+      <workItem from="1560940245519" duration="3566000" />
+      <workItem from="1560960973012" duration="1032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 09m 46s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 14m 26s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 19m 13s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 21m 50s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 22m 11s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 27m 00s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 27m 24s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 28m 29s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 28m 39s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_Tests - 2019.06.19 at 19h 28m 46s.xml">
+      <configuration name="Mocha Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32751000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49504295" weight="0.32719547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49834764" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49834764" weight="0.22237961" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4970258" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.504957" side_tool="true" visible="true" weight="0.32719547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CurrencyFormat.js" />
+    <entry file="file://$PROJECT_DIR$/Aggregates.js" />
+    <entry file="file://$PROJECT_DIR$/05. Next Article/article.html" />
+    <entry file="file://$PROJECT_DIR$/05. Next Article/next-article.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalSum.js" />
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/ArgumentInfo.js" />
+    <entry file="file://$PROJECT_DIR$/SortArray.js" />
+    <entry file="file://$PROJECT_DIR$/PersonalBMI.js" />
+    <entry file="file://$PROJECT_DIR$/VectorMath.js" />
+    <entry file="file://$PROJECT_DIR$/CommandProccessor.js" />
+    <entry file="file://$PROJECT_DIR$/MaxElement.js" />
+    <entry file="file://$PROJECT_DIR$/BreakfastRobot.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/02. Fill-Dropdown/dropdown.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/04. Sections/script.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/05. Notification/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/06. Time-Converter/solution.js" />
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/07. Locked-Profile/app.js" />
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Sub Sum.js" />
+    <entry file="file://$PROJECT_DIR$/Unit Testing/tests/sum.js" />
+    <entry file="file://$PROJECT_DIR$/Unit Testing/sum-nums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/Tests/sum-nums-mocha-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
